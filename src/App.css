@@ -1,0 +1,21 @@
+body{
+  margin-left: 50%;
+  align-content: center;
+  text-align: center;
+}
+
+#detailsForm{
+  align-content: center;
+  text-align: center;
+}
+
+.label{
+  width: 50%;
+  font-size: 20px;
+}
+
+.input{
+  width: 100%;
+  font-size: 20px;
+  background-color: gray;
+}
